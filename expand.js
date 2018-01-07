@@ -1,6 +1,6 @@
 // Include data for accessing Google APIs
 
-const apiKey = 'AIzaSyDPC09EQpJCx_G92ITrkA_2K4EFPB6k9YM';
+const apiKey = 'Your api key'; //put your api key
 const url = 'https://www.googleapis.com/urlshortener/v1/url';
 
 // Some page elements
